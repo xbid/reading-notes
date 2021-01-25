@@ -69,3 +69,24 @@ To clone a repository into a directory with another name of your choosing, use t
 
 The command above makes a copy of the target repository in a directory named “mydirectory.”
 
+Saving Changes
+
+All files in a checked out (or working) copy of a project file are either in a tracked or untracked state.
+
+Tracked
+
+Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot.
+
+Untracked
+
+Untracked files were not in the last snapshot and do not currently reside in the staging area.
+
+*After cloning a repository, files have tracked status and are unmodified because they have been checked out but not edited.
+The Life Cycle of File Status
+
+1.    After you edit a file, Git flags it as modified because of changes made after the previous commit.
+2.    You stage the modified file.
+3.    Then, you commit staged changes.
+
+
+This is only a brief you can check the whole thing from [Udemy](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#1)
