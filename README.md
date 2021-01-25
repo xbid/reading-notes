@@ -15,8 +15,12 @@ By contrast, in a fixed mindset, intelligence and talent are seen as fixed trait
 ***TO SUCCEED, YOU MUST FIRST BEGIN***
 As _Theodore Roosevelt_ Once Said:_
 > "It is hard to fail but it is worse never to have tried to succeed."
+
 ***
-![keep in growth mindset](https://cdn.gozen.com/wp-content/uploads/2018/11/mindsetABCs.png)
+### The ABCs of Making Mistakes with a Growth Mindset (Free Printable)!
+Carol Dweck rocked the world of education with her research into something she called a Growth Mindset: the belief that a person’s basic abilities can be improved by hard work and determination. A growth mindset is central to a love of learning, perseverance and resiliency. Adopting a growth mindset also allows parents and kids to reframe mistakes into learning opportunities, making them less frightening and less debilitating.
+***
+![keep in growth mindset](https://cdn.gozen.com/wp-content/uploads/2018/11/ABCMistakes-1-791x1024.png)
 [picture by Gozen.com](https://cdn.gozen.com/)
 
 ## how to keep myself in a growth mindset?
@@ -33,6 +37,13 @@ I must work on creating good habits and avoiding bad habits like:
 
 ***NOTHING IS IMPOSSIBLE*** In the words of _Audrey Hepburn_:
 > "Nothing Is Impossible The Word Itself Says **I'm Possible!**"
+
+And finally we have this video that talks about **The Growth Mindset _vs_ The Fixed Mindset**
+
+
+
+<a href="https://www.youtube.com/embed/KUWn_TJTrnU" target="_blank"><img src="http://img.youtube.com/vi/KUWn_TJTrnU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="560" height="315" border="0" /></a>
 
 ---
 _References_
