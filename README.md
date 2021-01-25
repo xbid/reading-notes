@@ -13,7 +13,7 @@ By contrast, in a fixed mindset, intelligence and talent are seen as fixed trait
 
 ***TO SUCCEED, YOU MUST FIRST BEGIN***
 _As Theodore Roosevelt Once Said:_
->******"It is hard to fail but it is worse never to have tried to succeed."******
+>****"It is hard to fail but it is worse never to have tried to succeed."****
 
 ***how to keep myself in a growth mindset?***
 
@@ -23,6 +23,6 @@ _As Theodore Roosevelt Once Said:_
 4. Enjoy the Process over the Result.
 
 _References_
-[firstref](https://theartofliving.com/growth-mindset-quotes/)
-[secondref](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-[thirdref](https://www.lifehack.org/861739/17-ways-to-develop-a-growth-mindset)
+1. [Firstref](https://theartofliving.com/growth-mindset-quotes/)
+2. [Secondref](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+3. [Thirdref](https://www.lifehack.org/861739/17-ways-to-develop-a-growth-mindset)
