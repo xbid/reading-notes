@@ -13,7 +13,7 @@ By contrast, in a fixed mindset, intelligence and talent are seen as fixed trait
 
 ***TO SUCCEED, YOU MUST FIRST BEGIN***
 _As Theodore Roosevelt Once Said:_
-> ****"It is hard to fail but it is worse never to have tried to succeed."****
+> "It is hard to fail but it is worse never to have tried to succeed."
 
 ![keep in growth mindset](https://cdn.gozen.com/wp-content/uploads/2018/11/mindsetABCs.png)
 
