@@ -2,7 +2,7 @@
 
 
 ![Image for growth mindset](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
-
+[Image by tofasakademi.com](https://tofasakademi.com/)
 ***What is the growth mindset?***
 
 “In a growth mindset, people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.
@@ -16,7 +16,7 @@ _As Theodore Roosevelt Once Said:_
 > "It is hard to fail but it is worse never to have tried to succeed."
 
 ![keep in growth mindset](https://cdn.gozen.com/wp-content/uploads/2018/11/mindsetABCs.png)
-
+[picture by Gozen.com](https://cdn.gozen.com/)
 ***how to keep myself in a growth mindset?***
 
 1. I must focus on my efforts, and never let anything disrupt me.
