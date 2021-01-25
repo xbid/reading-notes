@@ -17,8 +17,7 @@ As _Theodore Roosevelt_ Once Said:_
 > "It is hard to fail but it is worse never to have tried to succeed."
 
 ---
-### The ABCs of Making Mistakes with a Growth Mindset (Free Printable)!
-Carol Dweck rocked the world of education with her research into something she called a Growth Mindset: the belief that a person’s basic abilities can be improved by hard work and determination. A growth mindset is central to a love of learning...
+> ### The ABCs of Making Mistakes with a Growth Mindset (Free Printable)!
 ***
 ![keep in growth mindset](https://cdn.gozen.com/wp-content/uploads/2018/11/mindsetABCs.png)
 [picture by Gozen.com](https://cdn.gozen.com/)
