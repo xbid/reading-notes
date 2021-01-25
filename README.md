@@ -1,7 +1,7 @@
 **Growth Mindset**
 
 
-![Image](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
+![Image for growth mindset](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
 
 ***What is the growth mindset?***
 
@@ -13,7 +13,9 @@ By contrast, in a fixed mindset, intelligence and talent are seen as fixed trait
 
 ***TO SUCCEED, YOU MUST FIRST BEGIN***
 _As Theodore Roosevelt Once Said:_
->****"It is hard to fail but it is worse never to have tried to succeed."****
+> ****"It is hard to fail but it is worse never to have tried to succeed."****
+
+![keep in growth mindset](https://cdn.gozen.com/wp-content/uploads/2018/11/mindsetABCs.png)
 
 ***how to keep myself in a growth mindset?***
 
@@ -23,6 +25,6 @@ _As Theodore Roosevelt Once Said:_
 4. Enjoy the Process over the Result.
 
 _References_
-1. [Firstref](https://theartofliving.com/growth-mindset-quotes/)
-2. [Secondref](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-3. [Thirdref](https://www.lifehack.org/861739/17-ways-to-develop-a-growth-mindset)
+1. [The art of living](https://theartofliving.com/growth-mindset-quotes/)
+2. [Atlassian](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+3. [Life hack](https://www.lifehack.org/861739/17-ways-to-develop-a-growth-mindset)
