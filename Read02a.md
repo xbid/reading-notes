@@ -6,7 +6,6 @@
 
 Photo by [designshack.net](https://designshack.net/)
 
-
 Markdown is a plain text-to-HTML conversion tool for content creators.
 It allows you to quickly design easy-to-read, easy-to-write content for the web,
 and have it magically transformed to clean, structured HTML.

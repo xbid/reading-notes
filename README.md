@@ -1,6 +1,5 @@
 # Growth Mindset
 
-
 ![Image for growth mindset](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
 [Image by tofasakademi.com](https://tofasakademi.com/)
 
@@ -13,7 +12,7 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
 
 ***TO SUCCEED, YOU MUST FIRST BEGIN***
-As _Theodore Roosevelt_ Once Said:_
+As _Theodore Roosevelt_ Once Said:
 > "It is hard to fail but it is worse never to have tried to succeed."
 
 ---
@@ -39,10 +38,8 @@ I must work on creating good habits and avoiding bad habits like:
 
 And finally we have this video that talks about **The Growth Mindset _vs_ The Fixed Mindset**
 
-
-
-<a href="https://www.youtube.com/embed/KUWn_TJTrnU" target="_blank"><img src="http://img.youtube.com/vi/KUWn_TJTrnU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="560" height="315" border="0" /></a>
+<a href="https://www.youtube.com/embed/KUWn_TJTrnU"target="_blank"><img src="http://img.youtube.com/vi/KUWn_TJTrnU/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="560" height="315" /></a>
 
 ---
 _References_
