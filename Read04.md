@@ -116,7 +116,7 @@ Expressions rely on things called operators; they allow programmers to create a 
 
 ![arop](Read04/arop.jpg)
 
-![opi](Read/opi.jpg)
+![opi](Read04/opi.jpg)
 
 - STRING OPERATORS
 
