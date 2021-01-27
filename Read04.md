@@ -54,13 +54,19 @@ A script is  a series of instructions that a computer can follow to achieve a go
 
 To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
 
-Start w it h the big picture of what you want to achieve, and break that down into smaller steps.
+![scr](Read04/script.png)
+
+Start with the big picture of what you want to achieve, and break that down into smaller steps.
 
 1. DEFINE THE GOAL
 
 2. DESIGN THE SCRIPT
 
 3. CODE EACH STEP
+
+![fc](Read04/flowchart.png)
+
+![fc2](Read04/flowchart2.png)
 
 ## FROM STEPS TO CODE
 
@@ -90,9 +96,13 @@ Often scripts will need to perform different tasks in different situations. You 
 
 An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions.
 
-1. EXPRESSIO NS THAT JUST ASSIGN A VALUE TO A VARIABLE In order for a variable to be useful, it needs to be given a value.
+1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE In order for a variable to be useful, it needs to be given a value.
+
+![express1](Read04/express1.png)
 
 2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE You can perform operations on any number of individual values (see next page) to determine a single value.
+
+![express2](Read04/express2.png)
 
 ## OPERATORS
 
@@ -100,12 +110,20 @@ Expressions rely on things called operators; they allow programmers to create a 
 
 - ASSIGNMENT OPERATORS
 
+![asop](Read04/asop.png)
+
 - ARITHMETIC OPERATORS
 
-![arop](Read04/ar op.png)
+![arop](Read04/arop.png)
 
 - STRING OPERATORS
 
+![stop](Read04/stop.png)
+
 - COMPARISON OPERATORS
 
+![coop](Read04/coop.png)
+
 - LOGICAL OPERATORS
+
+![loop](Read04/loop.png)
