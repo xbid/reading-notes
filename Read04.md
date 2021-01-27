@@ -41,3 +41,71 @@ Like it Could be run when:
 - A web page has finished loading
 
 ## A SCRIPT IS A SERIES OF INSTRUCTIONS
+
+A script is  a series of instructions that a computer can follow to achieve a goal. You could compare scripts to any of the following:
+
+- Some scripts are simple and only deal with one individual scenario, like a simple recipe for a basic dish. Other scripts can perform many tasks.
+
+- in a complex script, the browser might use only a subset of the code available at any given time.
+
+- scripts can allow the browser to check the current situation and only perform a set of steps if that action is appropriate.
+
+## WRITING A SCRIPT
+
+To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
+
+Start w it h the big picture of what you want to achieve, and break that down into smaller steps.
+
+1. DEFINE THE GOAL
+
+2. DESIGN THE SCRIPT
+
+3. CODE EACH STEP
+
+## FROM STEPS TO CODE
+
+FROM STEPS TO CODE Every step for every task shown in a flowchart needs to be written in a language the computer can understand and follow.
+
+Just like learning any new language, you need to get to grips wit h the:
+
+- Vocabulary: The words that computers understand
+
+- Syntax: How you put those words t ogether to create instructions computers can follow
+
+You need to learn to "think" like a computer because they solve tasks in different ways than you or I might approach them.
+
+## DEFINING A GOAL & DESIGNING THE SCRIPT
+
+Consider how you might approach a different type of script. This example calculates the cost of a name plaque. Customers are charged by the letter.
+
+- The first thing you should do is detail your goals for the scrip t (what you want it to achieve)
+
+- Next, break it into a series of tasks that have to be performed in order to achieve the goals
+
+## SKETCHING OUT THE TASKS IN A FLOWCHART
+
+Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
+
+## EXPRESSIONS
+
+An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions.
+
+1. EXPRESSIO NS THAT JUST ASSIGN A VALUE TO A VARIABLE In order for a variable to be useful, it needs to be given a value.
+
+2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE You can perform operations on any number of individual values (see next page) to determine a single value.
+
+## OPERATORS
+
+Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
+
+- ASSIGNMENT OPERATORS
+
+- ARITHMETIC OPERATORS
+
+![arop](Read04/ar op.png)
+
+- STRING OPERATORS
+
+- COMPARISON OPERATORS
+
+- LOGICAL OPERATORS
