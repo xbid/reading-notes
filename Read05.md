@@ -8,13 +8,13 @@
 
 evaluate a situation by comparing one value in the script to what expected, the resilt will be either True or False.
 
-![iseq](read05/isequalto.jpg)
+![iseq](Read05/isequalto.jpg)
 
-![noeq](read05/notequal.jpg)
+![noeq](Read05/notequal.jpg)
 
-![str](read05/strictequal.jpg)
+![str](Read05/strictequal.jpg)
 
-![str](read05/strictnot.JPG)
+![str](Read05/strictnot.JPG)
 
 But it is usually preferable to use the strict method.
 
@@ -24,17 +24,17 @@ And you should note these exceptions :
 
 2. In short-circuit evaluation, a condition might not need to run.
 
-![gr](read05/great.jpg)
-![ls](read05/less.jpg)
-![gteq](read05/greatequal.jpg)
-![lseq](read05/lessequal.jpg)
+![gr](Read05/great.jpg)
+![ls](Read05/less.jpg)
+![gteq](Read05/greatequal.jpg)
+![lseq](Read05/lessequal.jpg)
 
 **- Structuring Comparison operators:**
 
 There is usuaally one operator and two operands. In any condition.
 the operands are placed in each side of the operarator. theycan valuas or variables.
 
-![op](read05/operators.jpg)
+![op](Read05/operators.jpg)
 
 **- Using Comparison operators:**
 
@@ -47,14 +47,14 @@ It start by sitting two variables:
 1. pass to hold the pass mark.
 2. score to hold the user score.
 
-![rjs](read05/jstrue.jpg)
+![rjs](Read05/jstrue.jpg)
 
 **- Using Expessions With Comparison Operators:**
 
 The operand does not have to be a single value or variable name.
 An operand can be an expression (evaluates into a single value).
 
-![comp](read05/comop.jpg)
+![comp](Read05/comop.jpg)
 
 **- Comparing Two Expressions:**
 
@@ -64,9 +64,7 @@ the highest scores for each round are storedin two more variables.
 
 ![com pt wo](Read05/comex1,jpg)
 
-![comptwovar](read05/comex1.jpg)
-
-![comptwova](read05/comex2.jpg)
+![comptwova](Read05/comex2.jpg)
 
 **- Logical Operator:**
 
@@ -74,23 +72,23 @@ Comparison operators usually return single values of true and false.
 
 Logical operatoss allow you to compar the results of mare than one comparison operator.
 
-![lop](ead05/logop.jpg)
+![lop](Read05/logop.jpg)
 
 - Logical and
 
-![la](read05/logand.jpg)
+![la](Read05/logand.jpg)
 
 - Logical or
 
-![lo](read05/logor)
+![lo](Read05/logor)
 
 - Logical not
 
-![ln](read05/lognot.jpg)
+![ln](Read05/lognot.jpg)
 
 - Short-Circuit Evaluation
 
-![sce](read05/shocirc.jpg)
+![sce](Read05/shocirc.jpg)
 
 **- LOOPS:**
 
@@ -102,7 +100,7 @@ Now here is the three common types of loops:
 
 If you need to run code a specific number of times (most common loop).
 
-![for](read05/for.jpg)
+![for](Read05/for.jpg)
 
 - While
 
@@ -121,23 +119,23 @@ here you can see the condition is made up of three statements:
 
 - Initialization
 
-![for](read05/forini.jpg)
+![for](Read05/forini.jpg)
 
 - Condition
 
-![for2](read05/forcon.jpg)
+![for2](Read05/forcon.jpg)
 
 - Update
 
-![for3](read05/forup.jpg)
+![for3](Read05/forup.jpg)
 
 **Looping:**
 
-![loop](read05/looping0.jpg)
+![loop](Read05/looping0.jpg)
 
-![loop2](read05/looping1.jpg)
+![loop2](Read05/looping1.jpg)
 
-![loop3](read05/looping.jpg)
+![loop3](Read05/looping.jpg)
 
 **- Using while loops:**
 
@@ -147,6 +145,4 @@ This loop will continue to run for as long as the condition in the parentheses i
 
 ![wloo](Read/whilelop1.jpg)
 
-![wl](read05/whilelop1.jpg)
-
-![wl2](read05/whilelop2.jpg)
+![wl2](Read05/whilelop2.jpg)
