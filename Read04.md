@@ -11,20 +11,22 @@ what JavaScript allows us to do ?
 Making web pages more interactive by:
 
 **1. ACCESS CONTENT**
-By using Java Script to select any element or text  Like:
 
+By using Java Script to select any element or text  Like:
 - Select the text inside all of the <hl> elements on a page.
 - Select any elements that have a class attribute with a value.
 - Find out what was entered into a text input
+
 **2. MODIFY CONTENT**
+
 Use Java Script to add or remove any content:
 - Add a paragraph of text after the first <hl> element.
 - Change the value of class attributes to trigger new CSS rules for those elements.
 - Change the size or position of an <img> element.
 
 **3. PROGRAM RULES**
-You can specify a set of steps for the browser to follow , which allows it to access or change the content of a page. like:
 
+You can specify a set of steps for the browser to follow , which allows it to access or change the content of a page. like:
 - A gallery script could check which image a user clicked on and display a larger version of that image.
 - A mortgage calculator could collect values from a form
 - An animation the viewport or as it called the viewport could check the dimensions of the browser window and move an image to the bottom of the viewable area.
