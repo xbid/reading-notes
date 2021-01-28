@@ -19,7 +19,7 @@ But it is usually preferable to use the strict method.
 And you should note these exceptions :
 
 1. Every value can be treated as true or false if it is not a Boolean.
-
+clear
 2. In short-circuit evaluation, a condition might not need to run.
 
 ![gt](read05/great.jpg)
@@ -100,7 +100,7 @@ If you need to run code a specific number of times (most common loop).
 
 ![for](read05/for.jpg)
 
-- While 
+- While
 
 You can use the while loop if you dont know how many times the code should run.
 
