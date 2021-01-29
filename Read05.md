@@ -69,6 +69,8 @@ Logical operatoss allow you to compar the results of mare than one comparison op
 
 **- LOOPS:**
 
+![loop](https://static.schoolofmotion.com/5cb2c741-6ec7-4140-aa35-08dc7e303c14/Loop_Cycle.gif)
+
 ![s](https://www.tutsmake.com/wp-content/uploads/2020/05/Loops-In-JavaScript.jpeg)
 
 Loops check a condition. If it returns true , a code block will run. Then the condition will be checked again and if it still returns true , the code block will run again. It repeats until the condition returns false.
