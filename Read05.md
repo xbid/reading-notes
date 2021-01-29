@@ -8,13 +8,7 @@
 
 evaluate a situation by comparing one value in the script to what expected, the resilt will be either True or False.
 
-![iseq](Read05/isequalto.jpg)
-
-![noeq](Read05/notequal.jpg)
-
-![str](Read05/strictequal.jpg)
-
-![str](Read05/strictnot.JPG)
+![iseq](https://cdn.javascripttutorial.net/wp-content/uploads/2016/11/JavaScript-Comparison-Operators.png)
 
 But it is usually preferable to use the strict method.
 
@@ -24,17 +18,12 @@ And you should note these exceptions :
 
 2. In short-circuit evaluation, a condition might not need to run.
 
-![gr](Read05/great.jpg)
-![ls](Read05/less.jpg)
-![gteq](Read05/greatequal.jpg)
-![lseq](Read05/lessequal.jpg)
+![gr](https://i.ytimg.com/vi/wFB-ywsNPwg/maxresdefault.jpg)
 
 **- Structuring Comparison operators:**
 
 There is usuaally one operator and two operands. In any condition.
 the operands are placed in each side of the operarator. theycan valuas or variables.
-
-![op](Read05/operators.jpg)
 
 **- Using Comparison operators:**
 
@@ -47,14 +36,10 @@ It start by sitting two variables:
 1. pass to hold the pass mark.
 2. score to hold the user score.
 
-![rjs](Read05/jstrue.jpg)
-
 **- Using Expessions With Comparison Operators:**
 
 The operand does not have to be a single value or variable name.
 An operand can be an expression (evaluates into a single value).
-
-![comp](Read05/comop.jpg)
 
 **- Comparing Two Expressions:**
 
@@ -62,35 +47,29 @@ In the next example there are two rounds to the test and the code will check if 
 
 the highest scores for each round are storedin two more variables.
 
-![com pt wo](Read05/comex1,jpg)
-
-![comptwova](Read05/comex2.jpg)
-
 **- Logical Operator:**
 
 Comparison operators usually return single values of true and false.
 
 Logical operatoss allow you to compar the results of mare than one comparison operator.
 
-![lop](Read05/logop.jpg)
-
 - Logical and
-
-![la](Read05/logand.jpg)
 
 - Logical or
 
-![lo](Read05/logor)
-
 - Logical not
 
-![ln](Read05/lognot.jpg)
+![sss](https://i.ytimg.com/vi/JVL6xEzOCrE/maxresdefault.jpg)
 
 - Short-Circuit Evaluation
 
-![sce](Read05/shocirc.jpg)
+![sce](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnmaKoXRT2nxv8-4qfo4Eqp-dQjhwkjiYZX8f974bYrjTj26I&s)
+
+![ss](https://www.javabrahman.com/wp-content/uploads/PrincipleshortCircuitAND.png)
 
 **- LOOPS:**
+
+![s](https://www.tutsmake.com/wp-content/uploads/2020/05/Loops-In-JavaScript.jpeg)
 
 Loops check a condition. If it returns true , a code block will run. Then the condition will be checked again and if it still returns true , the code block will run again. It repeats until the condition returns false.
 
@@ -99,8 +78,6 @@ Now here is the three common types of loops:
 - For
 
 If you need to run code a specific number of times (most common loop).
-
-![for](Read05/for.jpg)
 
 - While
 
@@ -112,6 +89,8 @@ similar to while loop but has one key difference it will always run the statment
 
 **- Loop Counters:**
 
+![s](https://static.schoolofmotion.com/5cb2c741-6ec7-4140-aa35-08dc7e303c14/Loop_Cycle.gif)
+
 A for loop uses a counter as a condition.
 
 This instructs the code to run a specified number of times.
@@ -119,23 +98,13 @@ here you can see the condition is made up of three statements:
 
 - Initialization
 
-![for](Read05/forini.jpg)
-
 - Condition
-
-![for2](Read05/forcon.jpg)
 
 - Update
 
-![for3](Read05/forup.jpg)
-
 **Looping:**
 
-![loop](Read05/looping0.jpg)
-
-![loop2](Read05/looping1.jpg)
-
-![loop3](Read05/looping.jpg)
+![loop](https://cdn-images-1.medium.com/max/800/1*QoMetPjm8T-N9Ii8gfqvag.png)
 
 **- Using while loops:**
 
@@ -143,6 +112,4 @@ Here is an example of a while loop It writes out the time the 5 times table . An
 
 This loop will continue to run for as long as the condition in the parentheses is true.
 
-![wloo](Read/whilelop1.jpg)
-
-![wl2](Read05/whilelop2.jpg)
+![gif](https://i.pinimg.com/originals/41/a3/04/41a3041c02de23b097fa1c5be788a9eb.gif)
