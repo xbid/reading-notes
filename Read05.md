@@ -69,8 +69,6 @@ Logical operatoss allow you to compar the results of mare than one comparison op
 
 **- LOOPS:**
 
-![loop](https://static.schoolofmotion.com/5cb2c741-6ec7-4140-aa35-08dc7e303c14/Loop_Cycle.gif)
-
 ![s](https://www.tutsmake.com/wp-content/uploads/2020/05/Loops-In-JavaScript.jpeg)
 
 Loops check a condition. If it returns true , a code block will run. Then the condition will be checked again and if it still returns true , the code block will run again. It repeats until the condition returns false.
@@ -115,3 +113,5 @@ Here is an example of a while loop It writes out the time the 5 times table . An
 This loop will continue to run for as long as the condition in the parentheses is true.
 
 ![gif](https://i.pinimg.com/originals/41/a3/04/41a3041c02de23b097fa1c5be788a9eb.gif)
+
+![loop](https://static.schoolofmotion.com/5cb2c741-6ec7-4140-aa35-08dc7e303c14/Loop_Cycle.gif)
