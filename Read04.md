@@ -1,6 +1,6 @@
 # Java Script
 
-### How JavaScript can be used in  browsers to make websites more interactive:
+### How JavaScript can be used in browsers to make websites more interactive:
 
 ![JS](https://www.purelogics.net/blog/wp-content/uploads/2019/01/javascript.png)
 This photo by [purelogics.net](https://www.purelogics.net/blog/)
