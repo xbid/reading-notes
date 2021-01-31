@@ -14,7 +14,7 @@
 
 CSS allows you to create rules that specify how the content of an element should appear
 
-![first](Read06/first.jpg)
+![first](Read06/first.JPG)
 
 ## UnderstandIng CSS: thinking Inside the Box
 
@@ -34,5 +34,22 @@ Using CSS, you could add a border around any of the boxes, specify its width and
 
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
 
-![sec](Read06/sec.jpg)
+![sec](Read06/sec.JPG)
 
+This rule indicates that all <p>elements should be shown in the Arial typeface.
+
+- Selectors indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names with commas.Declarations indicate how the elements referred to in the selector should be styled.
+
+- Declarations are split into two parts (a property and a value), and are separated by a colon.
+
+### CSS Properties affect How Elements Are Displayed
+
+CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
+
+![third](Read06/third.JPG)
+
+This rule indicates that all <h1>, <h2> and <h3> elements should be shown in the Arial typeface, in a yellow color.
+
+- Properties indicate the aspects of the element you want to change. For example, color, font, width, height and border.
+
+- Values specify the settings you want to use for the chosen properties. For example, if you want to specify a color property then the value is the color you want the text in these elements to be.
