@@ -1,6 +1,7 @@
 # Introductory HTML and JavaScript
 
 ![H&J](https://wi.wallpapertip.com/wsimgs/31-312238_html-css-javascript-transparent.png)
+
 Photo by [Wallpaper tip](https://wi.wallpapertip.com/)
 
 ## What is Webpages.?
@@ -14,10 +15,12 @@ They also include extra content such as images, audio, video, or animations.
 When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
 ![1st](Code201/Class01/1st.JPG)
+
 Photo by Ducket HTML Book
 
 In another meaning **You Can Visit Any Website From Any Place Any Where Any Time**
 
 ![2nd](Code201/Class01/2nd.png)
+
 Photo by Ducket HTML Book
 
