@@ -174,3 +174,13 @@ for example see the next Image:
 ![seventh](class01/seventh.JPG)
 
 Escape characters are used to include special characters in your pages such as <, >, and ©.
+
+
+## HTML5 Layout
+
+### TraditionaL HTML Layouts
+
+For a long time, web page authors used ```<div>``` elements to group together related elements on the page (such as the elements that form a header, an article, footer or sidebar). Authors used class or id attributes to indicate the role of the ```<div>``` element in the structure of the page.
+
+![8](class01/eight.JPG)
+
