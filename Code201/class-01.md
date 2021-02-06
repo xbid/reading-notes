@@ -20,7 +20,9 @@ Photo by Ducket HTML Book
 
 In another meaning **You Can Visit Any Website From Any Place Any Where Any Time**
 
-![1st](Code201/Class01/2nd.png)
+![2nd](./Code201/Class01/2nd.png)
+
+<img src="./Code201/Class/2nd.png">
 
 Photo by Ducket HTML Book
 
