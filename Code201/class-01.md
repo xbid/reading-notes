@@ -20,6 +20,6 @@ Photo by Ducket HTML Book
 
 In another meaning **You Can Visit Any Website From Any Place Any Where Any Time**
 
-![2nd](C:\Users\User\Desktop\asac\reading-notes\img\class01\first.JPG)
+![2nd](img\class01\first.JPG)
 
-Photo by Ducket HTML Book.
+Photo by Ducket HTML Book
