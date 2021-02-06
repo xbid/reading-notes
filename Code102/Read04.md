@@ -1,6 +1,6 @@
 # Java Script
 
-### How JavaScript can be used in browsers to make websites more interactive:
+## How JavaScript can be used in browsers to make websites more interactive:
 
 ![JS](https://www.purelogics.net/blog/wp-content/uploads/2019/01/javascript.png)
 This photo by [purelogics.net](https://www.purelogics.net/blog/)
@@ -13,6 +13,7 @@ Making web pages more interactive by:
 **1. ACCESS CONTENT**
 
 By using Java Script to select any element or text  Like:
+
 - Select the text inside all of the <hl> elements on a page.
 - Select any elements that have a class attribute with a value.
 - Find out what was entered into a text input
@@ -20,6 +21,7 @@ By using Java Script to select any element or text  Like:
 **2. MODIFY CONTENT**
 
 Use Java Script to add or remove any content:
+
 - Add a paragraph of text after the first <hl> element.
 - Change the value of class attributes to trigger new CSS rules for those elements.
 - Change the size or position of an <img> element.
@@ -27,6 +29,7 @@ Use Java Script to add or remove any content:
 **3. PROGRAM RULES**
 
 You can specify a set of steps for the browser to follow , which allows it to access or change the content of a page. like:
+
 - A gallery script could check which image a user clicked on and display a larger version of that image.
 - A mortgage calculator could collect values from a form
 - An animation the viewport or as it called the viewport could check the dimensions of the browser window and move an image to the bottom of the viewable area.
@@ -56,7 +59,7 @@ A script is  a series of instructions that a computer can follow to achieve a go
 
 To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
 
-![scr](Code102/Read04/script.jpg)
+![scr](read04/script.jpg)
 
 Start with the big picture of what you want to achieve, and break that down into smaller steps.
 
@@ -66,9 +69,9 @@ Start with the big picture of what you want to achieve, and break that down into
 
 3. CODE EACH STEP
 
-![fc](Code102/Read04/flowchart.jpg)
+![fc](read04/flowchart.jpg)
 
-![fc2](Code102/Read04/flowchart2.jpg)
+![fc2](read04/flowchart2.jpg)
 
 ## FROM STEPS TO CODE
 
@@ -100,11 +103,11 @@ An expression evaluates into (results in) a single value. Broadly speaking there
 
 1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE In order for a variable to be useful, it needs to be given a value.
 
-![express1](Code102/Read04/express1.jpg)
+![express1](read04/express1.jpg)
 
 2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE You can perform operations on any number of individual values (see next page) to determine a single value.
 
-![express2](Code102/Read04/express2.jpg)
+![express2](read04/express2.jpg)
 
 ## OPERATORS
 
@@ -112,22 +115,22 @@ Expressions rely on things called operators; they allow programmers to create a 
 
 - ASSIGNMENT OPERATORS
 
-![asop](Code102/Read04/asop.jpg)
+![asop](read04/asop.jpg)
 
 - ARITHMETIC OPERATORS
 
-![arop](Code102/Read04/arop.jpg)
+![arop](read04/arop.jpg)
 
-![opi](Code102/Read04/opi.jpg)
+![opi](read04/opi.jpg)
 
 - STRING OPERATORS
 
-![stop](Code102/Read04/stop.jpg)
+![stop](read04/stop.jpg)
 
 - COMPARISON OPERATORS
 
-![coop](Code102/Read04/coop.jpg)
+![coop](read04/coop.jpg)
 
 - LOGICAL OPERATORS
 
-![loop](Code102/Read04/loop.jpg)
+![loop](read04/loop.jpg)

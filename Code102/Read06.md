@@ -14,7 +14,7 @@
 
 CSS allows you to create rules that specify how the content of an element should appear
 
-![first](Code102/Read06/first.JPG)
+![first](read06/first.JPG)
 
 ## UnderstandIng CSS: thinking Inside the Box
 
@@ -34,7 +34,7 @@ Using CSS, you could add a border around any of the boxes, specify its width and
 
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
 
-![sec]Code102/Read06/sec.JPG)
+![sec](read06/sec.JPG)
 
 This rule indicates that all <p>elements should be shown in the Arial typeface.
 
@@ -46,7 +46,7 @@ This rule indicates that all <p>elements should be shown in the Arial typeface.
 
 CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
 
-![third](Code102/Read06/third.JPG)
+![third](read06/third.JPG)
 
 This rule indicates that all <h1>, <h2> and <h3> elements should be shown in the Arial typeface, in a yellow color.
 
@@ -64,7 +64,7 @@ This rule indicates that all <h1>, <h2> and <h3> elements should be shown in the
 
 - **rel** This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file.
 
-![fourth](Code102/Read06/fourth.JPG)
+![fourth](read06/fourth.JPG)
 
 ### Using InternaL CSS
 
@@ -80,10 +80,10 @@ When building a site with more than one page, you should use an external CSS sty
 
 - Means you can change the styles used across all pages by altering just one file (rather than each individual page).
 
-![fifth](Code102/Read/fifth.JPG)
+![fifth](read06/fifth.JPG)
 
 ### CSS Selectors
 
 There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document.
 
-![six](Code102/Read06/Sixth.JPG)
+![six](read06/Sixth.JPG)

@@ -60,4 +60,4 @@ This Is The Intro For The Read Assignments of Code 201.
 
 ### 2.1. Class01
 
-Introduction to HTML and JavaScript
+Introduction to HTML and JavaScript.
