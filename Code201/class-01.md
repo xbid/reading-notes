@@ -14,12 +14,12 @@ They also include extra content such as images, audio, video, or animations.
 
 When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
-![1st](Code201/Class01/first.JPG)
+![1st](img/class01/first.JPG)
 
 Photo by Ducket HTML Book
 
 In another meaning **You Can Visit Any Website From Any Place Any Where Any Time**
 
-![nd](img/Class01/second.png)
+![nd](img/class01/second.png)
 
 Photo by Ducket HTML Book.
