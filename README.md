@@ -13,6 +13,20 @@ Iam Abdallah Al-Zubaidi and This Website is about a table of content of reading 
 
 - [2. Code 201 Reading Notes](https://xbid.github.io/reading-notes/)
   - [2.1. Class01](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.2. Class02](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.3. Class03](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.4. Class04](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.5. Class05](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.6. Class06](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.7. Class07](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.8. Class08](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.9. Class09](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.10. Class10](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.11. Class11](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.12. Class12](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.13. Class13](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.14. Class14](https://xbid.github.io/reading-notes/Code201/class-01)
+  - [2.15. Class15](https://xbid.github.io/reading-notes/Code201/class-01)
 
 ## 1. Code 102 Reading Notes
 
@@ -61,3 +75,31 @@ This Is The Intro For The Read Assignments of Code 201.
 ### 2.1. Class01
 
 Introduction to HTML and JavaScript.
+
+### 2.2. Class02
+
+### 2.3. Class03
+
+### 2.4. Class04
+
+### 2.5. Class05
+
+### 2.6. Class06
+
+### 2.7. Class07
+
+### 2.8. Class08
+
+### 2.9. Class09
+
+### 2.10. Class10
+
+### 2.11. Class11
+
+### 2.12. Class12
+
+### 2.13. Class13
+
+### 2.14. Class14
+
+### 2.15. Class15
