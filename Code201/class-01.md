@@ -92,3 +92,85 @@ Each element has an opening tag and a closing tag
 
 ![sixth](class01/sixth.JPG)
 
+## Summary
+### Structure
+
+- HTML pages are text documents.
+
+- HTML uses tags (characters that sit inside angled Xbrackets) to give the information they surround special meaning.
+
+- Tags are often referred to as elements.
+
+- Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
+
+- Opening tags can carry attributes, which tell us more Xabout the content of that element.
+
+- Attributes require a name and a value.
+
+- To learn HTML you need to know what tags are Xavailable for you to use, what they do, and where they can go.
+
+## Extra Markup
+
+Here is some Extra Mark up Tags
+
+**DOCTYPE**
+
+- ```<!DOCTYPE html>```
+
+DOCTYPES tell browsers which version of HTML you are using.
+
+**Comments**
+
+- ```<!-- comment goes here -->```
+
+You can add comments to your code between the ```<!-- and -->``` markers.
+
+**ID Attribute & Class Attribute**
+
+- ```id="quote"```
+
+- ```class="important"```
+
+The id and class attributes allow you to identify particular elements.
+
+**Block Elements**
+
+- ```<h1>, <p>, <ul>, and <li>```
+
+**Inline Elements**
+
+- ```<a>, <b>, <em>, and <img>```
+
+**Grouping Text & Elements in a Block**
+
+- ```<div>```
+
+**Grouping Text & Elements Inline**
+
+- ```<span>```
+
+The ```<div>``` and ```<span>``` elements allow you to group block-level and inline elements together.
+
+**Iframes**
+
+- ```<iframe>```
+
+Cut windows into your web pages through which other pages can be displayed.
+
+**Information about your page**
+
+- ```<meta>```
+
+Allows you to supply all kinds of information about your web page.
+
+**Escape Characters**
+
+There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
+
+When using escape characters, it is important to check the page in your browser to ensure that the correct symbol shows up. This is because some fonts do not support all of these characters and you might therefore need to specify a different font for these characters in your CSS code.
+
+for example see the next Image:
+
+![seventh](class01/seventh.JPG)
+
+Escape characters are used to include special characters in your pages such as <, >, and ©.
