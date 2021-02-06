@@ -10,7 +10,7 @@ When you are looking at a website, it is most likely that your browser will be r
 
 They also include extra content such as images, audio, video, or animations.
 
-## How the web works?
+## How the web works.?
 
 When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
@@ -20,6 +20,19 @@ Photo by Ducket HTML Book
 
 In another meaning **You Can Visit Any Website From Any Place Any Where Any Time**
 
-![2nd](class01\second.png)
+![2nd](class01/second.png)
 
 Photo by Ducket HTML Book
+
+## Structure
+
+What you will learn by the end of this is:
+
+- Understanding structure
+
+- Learning about markup
+
+- Tags and elements
+
+![third](class01/third.JPG)
+
