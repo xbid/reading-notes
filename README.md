@@ -10,7 +10,9 @@ Iam Abdallah Al-Zubaidi and This Website is about a table of content of reading 
   - [1.5. Read04](https://xbid.github.io/reading-notes/Read04)
   - [1.6. Read05](https://xbid.github.io/reading-notes/Read05)
   - [1.7. Read06](https://xbid.github.io/reading-notes/Read06)
+  
 - [2. Code 201 Reading Notes](https://xbid.github.io/reading-notes/)
+  - [2.1. Class01](https://xbid.github.io/reading-notes/class-01)
 
 ## 1. Code 102 Reading Notes
 
@@ -55,3 +57,6 @@ technical background can know about Styling The WebPage with CSS.
 ## 2. Code 201 Reading Notes
 
 This Is The Intro For The Read Assignments of Code 201.
+
+### 2.1. Class01
+

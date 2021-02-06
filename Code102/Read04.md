@@ -56,7 +56,7 @@ A script is  a series of instructions that a computer can follow to achieve a go
 
 To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
 
-![scr](Read04/script.jpg)
+![scr](Code102/Read04/script.jpg)
 
 Start with the big picture of what you want to achieve, and break that down into smaller steps.
 
@@ -66,9 +66,9 @@ Start with the big picture of what you want to achieve, and break that down into
 
 3. CODE EACH STEP
 
-![fc](Read04/flowchart.jpg)
+![fc](Code102/Read04/flowchart.jpg)
 
-![fc2](Read04/flowchart2.jpg)
+![fc2](Code102/Read04/flowchart2.jpg)
 
 ## FROM STEPS TO CODE
 
@@ -100,11 +100,11 @@ An expression evaluates into (results in) a single value. Broadly speaking there
 
 1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE In order for a variable to be useful, it needs to be given a value.
 
-![express1](Read04/express1.jpg)
+![express1](Code102/Read04/express1.jpg)
 
 2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE You can perform operations on any number of individual values (see next page) to determine a single value.
 
-![express2](Read04/express2.jpg)
+![express2](Code102/Read04/express2.jpg)
 
 ## OPERATORS
 
@@ -112,22 +112,22 @@ Expressions rely on things called operators; they allow programmers to create a 
 
 - ASSIGNMENT OPERATORS
 
-![asop](Read04/asop.jpg)
+![asop](Code102/Read04/asop.jpg)
 
 - ARITHMETIC OPERATORS
 
-![arop](Read04/arop.jpg)
+![arop](Code102/Read04/arop.jpg)
 
-![opi](Read04/opi.jpg)
+![opi](Code102/Read04/opi.jpg)
 
 - STRING OPERATORS
 
-![stop](Read04/stop.jpg)
+![stop](Code102/Read04/stop.jpg)
 
 - COMPARISON OPERATORS
 
-![coop](Read04/coop.jpg)
+![coop](Code102/Read04/coop.jpg)
 
 - LOGICAL OPERATORS
 
-![loop](Read04/loop.jpg)
+![loop](Code102/Read04/loop.jpg)
