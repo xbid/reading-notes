@@ -4,6 +4,18 @@
 
 Photo by [Tea Hub](https://swall.teahub.io)
 
+What you will learn by the end of this is:
+
+- [Understanding structure](#structure)
+
+- [Learning about markup](#extra-markup)
+
+- [Tags and elements](#)
+
+- [HTML5 layout elements](#)
+
+- [Styling HTML5 layout elements with CSS](#)
+
 ## What is Webpages.?
 
 When you are looking at a website, it is most likely that your browser will be receiving HTML and CSS from the web server that hosts the site.
@@ -24,21 +36,7 @@ In another meaning **You Can Visit Any Website From Any Place Any Where Any Time
 
 Photo by Ducket HTML Book
 
-## Structure
-
-What you will learn by the end of this is:
-
-- [Understanding structure]()
-
-- [Learning about markup](#extra-markup)
-
-- Tags and elements
-
-- HTML5 layout elements
-
-- How old browsers understand new elements
-
-- Styling HTML5 layout elements with CSS
+# Structure
 
 ![img](class01/third.JPG)
 
@@ -182,7 +180,7 @@ for example see the next Image:
 Escape characters are used to include special characters in your pages such as <, >, and ©.
 
 
-## HTML5 Layout
+# HTML5 Layout
 
 ### TraditionaL HTML Layouts
 
@@ -196,7 +194,7 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 
 ![8.1](class01/eight1.JPG)
 
-## Headers & FooTers
+## Headers & Footers
 
 ```<header> <footer>```
 
@@ -206,3 +204,50 @@ The ```<header> and <footer>``` elements can be used for:
 
 - A header or footer for an individual ```<article> or <section>``` within the page.
 
+## Navigation
+
+```<nav>```
+
+The ```<nav>``` element is used to contain the major navigational blocks on the site such as the primary site navigation.
+
+## Articles
+
+```<article>```
+
+The ```<article>``` element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+
+## Asides
+
+```<aside>```
+
+The ```<aside>``` element has two purposes, depending on whether it is inside an ```<article>```
+element or not.
+
+When the ```<aside>``` element is used inside an ```<article>``` element, it should contain information that is related to the article but not essential to its overall meaning.
+
+## Sections
+
+```<section>```
+
+The ```<section>``` element groups related content together, and typically each section would have its own heading.
+
+## Heading groups
+
+```<hgroup>```
+
+The purpose of the ```<hgroup>``` element is to group together a set of one or more ```<h1>``` through ```<h6>``` elements so that they are treated as one single heading.
+
+## Figures
+
+```<figure> <figcaption>```
+
+It can be used to contain any content that is referenced from the main flow of an article (not just images).
+
+## Sectioning ELements
+
+```<div>```
+
+The ```<div>```
+ element will remain an important way to group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated.
+
+ 
