@@ -6,7 +6,7 @@ Photo by [Pocket Now](https://pocketnow.com)
 
 - [Headings and paragraphs](#headings)
 
-- [Bold, italic, emphasis](#bold-&-italic)
+- [Bold, italic, emphasis](#bold&italic)
 
 - Structural and semantic markup
 
