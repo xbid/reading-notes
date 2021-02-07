@@ -333,3 +333,8 @@ Even if the site has a wide appeal, you can still think about the demographics o
 
 ![table](class01/table.JPG)
 
+# Why People visit your Website
+
+Now that you know who your visitors are, you need to consider why they are coming.
+
+While some people will simply chance across your website, most will visit for a specific reason.
