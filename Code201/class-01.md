@@ -272,6 +272,7 @@ You do not need to understand JavaScript to use it. You can just link to a copy 
 Unfortunately, this workaround does require that anyone using IE8 or earlier versions of IE has JavaScript enabled in their browser. If they do not have JavaScript enabled then they will not be able to see the content of these HTML5 elements
 
 **Summary**
+
 HTML5 Layout
 
 - The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
@@ -284,3 +285,12 @@ HTML5 Layout
 
 # Process & Design
 
+Who is the site For?
+
+Every website should be designed for the target audience—not just for yourself or the site owner. 
+
+It is therefore very important to understand who your target audience is.
+
+You Should ask yourself some questions about the people you would expect to be interested in your site.
+
+Is it for the entire world?, think again it is unlikely to be relevant to everyone. Right?
