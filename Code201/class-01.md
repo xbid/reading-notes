@@ -247,7 +247,22 @@ It can be used to contain any content that is referenced from the main flow of a
 
 ```<div>```
 
-The ```<div>```
- element will remain an important way to group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated.
+The ```<div>``` element will remain an important way to group together related elements, because you should not be using these new elements that you have just met for purposes other than those explicitly stated.
 
- 
+## Linking around BLock-LeveL Elements
+
+HTML5 allows web page authors to place an ```<a>``` element around a block level element that contains child elements.
+
+This allows you to turn an entire block into a link.
+
+This is not a new element in HTML5, but it was not seen as a correct usage of the ```<a>``` element in earlier versions of HTML.
+
+## Helping oLder browsers understand
+
+Older browsers that do not know the new HTML5 elements will automatically treat them as inline elements. Therefore, to help older browsers, you should include the line of CSS on the left which states which new elements should be rendered as block-level elements.
+
+Also, IE9 was the first version of Internet Explorer to allow CSS rules to be associated with these new HTML5 layout elements. In order to style these elements using earlier versions of IE, you need to use a simple JavaScript known as the HTML5 shiv or HTML5 shim.
+
+You do not need to understand JavaScript to use it. You can just link to a copy that Google hosts on its servers. It should be placed inside a conditional comment which checks if the browser version is less than (hence the lt) IE9.
+
+Unfortunately, this workaround does require that anyone using IE8 or earlier versions of IE has JavaScript enabled in their browser. If they do not have JavaScript enabled then they will not be able to see the content of these HTML5 elements
