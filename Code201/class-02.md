@@ -41,3 +41,26 @@ If there are further sections under the subheadings then the ```<h3>``` element 
 
 ![headres](class02\hres1.JPG)
 
+**PARAGRAPHS**
+
+```<p>```
+
+To create a paragraph.
+
+The browser will show each paragraph on new line, by default,
+
+*The Html paragraph Tag*
+
+~~~
+<p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, magnam!
+</p>
+<p>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, magnam!
+</p>
+~~~
+
+*Result*
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, magnam!
+
