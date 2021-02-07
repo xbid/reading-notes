@@ -323,11 +323,13 @@ Even if the site has a wide appeal, you can still think about the demographics o
 
 **Target Audience:** Companies:
 
-- What is the size of the company or relevant department?
+- What is the size of the company?
 
-- What is the position of people in the company who visit your site?
+- What is the position of people in the company?
 
-- Will visitors be using the site for themselves or for someone else?
+- Will visitors be using the site for someone else Other than themselves?
 
 - How large is the budget they control?
+
+![table](class01/table.JPG)
 
