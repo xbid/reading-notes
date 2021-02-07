@@ -6,7 +6,7 @@ Photo by [Pocket Now](https://pocketnow.com)
 
 - [Headings and paragraphs](#headings)
 
-- [Bold, italic, emphasis](#bold&italic)
+- [Bold, italic, emphasis](#bold-and-italic)
 
 - Structural and semantic markup
 
@@ -39,7 +39,7 @@ If there are further sections under the subheadings then the ```<h3>``` element 
 <h6>This is a Level 6 Heading</h6>
 ~~~
 
-![headres](class02\hres1.JPG)
+![header](class02\hres1.JPG)
 
 **PARAGRAPHS**
 
@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, 
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, magnam!
 
-# BOLD & ITALIC
+# BOLD and ITALIC
 
 
 **Bold**
@@ -82,4 +82,3 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, 
 By enclosing words in the tags ```<i>``` and ```</i>``` we can make characters appear italic.
 
 ![b&i](class02\bi.JPG)
-
