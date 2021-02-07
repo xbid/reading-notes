@@ -4,9 +4,9 @@
 
 Photo by [Pocket Now](https://pocketnow.com)
 
-- Headings and paragraphs
+- [Headings and paragraphs](#headings)
 
-- Bold, italic, emphasis
+- [Bold, italic, emphasis](#bold-&-italic)
 
 - Structural and semantic markup
 
@@ -16,7 +16,7 @@ Photo by [Pocket Now](https://pocketnow.com)
 
 Photo by [Pin img](https://i.pinimg.com)
 
-**HEADINGS**
+# HEADINGS
 
 ```<h1> <h2> <h3> <h4> <h5> <h6>```
 
@@ -65,3 +65,5 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, magnam!
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, magnam!
+
+# BOLD & ITALIC
