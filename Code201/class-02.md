@@ -28,6 +28,8 @@ Each one of these heading tags has its purpose.
 
 If there are further sections under the subheadings then the ```<h3>``` element is used, and so on...
 
+*The Html Heading Tags*
+
 ~~~
 <h1>This is a Main Heading</h1>
 <h2>This is a Level 2 Heading</h2>
