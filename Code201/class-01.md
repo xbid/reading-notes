@@ -294,3 +294,40 @@ It is therefore very important to understand who your target audience is.
 You Should ask yourself some questions about the people you would expect to be interested in your site.
 
 Is it for the entire world?, think again it is unlikely to be relevant to everyone. Right?
+
+Even if the site has a wide appeal, you can still think about the demographics of a sample of the target audience. Like ...
+
+**Target Audience:** Individuals:
+
+- What is the age range of your target audience?
+
+- Will your site appeal to more women or men?
+
+- Which country do your visitors live in?
+
+- Do they live in urban or rural areas?
+
+- What is the average income of visitors?
+
+- What level of education do they have?
+
+- What is their marital status?
+
+- What is their occupation?
+
+- How many hours do they work per week?
+
+- How often do they use the web?
+
+- What kind of device do they use to access the web?
+
+**Target Audience:** Companies:
+
+- What is the size of the company or relevant department?
+
+- What is the position of people in the company who visit your site?
+
+- Will visitors be using the site for themselves or for someone else?
+
+- How large is the budget they control?
+
