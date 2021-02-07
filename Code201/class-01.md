@@ -28,13 +28,11 @@ Photo by Ducket HTML Book
 
 What you will learn by the end of this is:
 
-- Understanding structure
+- [Understanding structure]()
 
-- Learning about markup
+- [Learning about markup](#extra-markup)
 
 - Tags and elements
-
-- Mark up tags and how to use them
 
 - HTML5 layout elements
 
@@ -117,7 +115,7 @@ Each element has an opening tag and a closing tag
 
 - To learn HTML you need to know what tags are Xavailable for you to use, what they do, and where they can go.
 
-## Extra Markup
+# Extra Markup
 
 Here is some Extra Mark up Tags
 
