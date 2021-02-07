@@ -67,3 +67,19 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, quos. Officiis, magnam!
 
 # BOLD & ITALIC
+
+
+**Bold**
+
+```<b>```
+
+ By enclosing words in the tags ```<b>``` and ```</b>``` we can make characters appear bold.
+
+*Italic*
+
+```<i>```
+
+By enclosing words in the tags ```<i>``` and ```</i>``` we can make characters appear italic.
+
+![b&i](class02\bi.JPG)
+
