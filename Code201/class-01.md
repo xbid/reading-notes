@@ -196,3 +196,13 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 
 ![8.1](class01/eight1.JPG)
 
+## Headers & FooTers
+
+```<header> <footer>```
+
+The ```<header> and <footer>``` elements can be used for:
+
+- The main header or footer that appears at the top or bottom of every page on the site.
+
+- A header or footer for an individual ```<article> or <section>``` within the page.
+
