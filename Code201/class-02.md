@@ -10,11 +10,11 @@ Photo by [Pocket Now](https://pocketnow.com)
 
 - [Structural and semantic markup](#bold-and-italic)
 
-- [What CSS does]()
+- [What CSS does](#introducing-css)
 
-- [How CSS works]()
+- [How CSS works](#introducing-css)
 
-- [Rules, properties, and values]()
+
 
 ## Text
 
@@ -190,3 +190,20 @@ CSS works by associating rules with HTML elements. These rules govern how the co
 CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon
 
 ![css](class02\css2.JPG)
+
+# JAVASCRIPT
+
+*Basic Instructions*
+
+**STATEMENTS**
+
+A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
+
+![js](class02\js.JPG)
+
+**COMMENTS**
+
+Write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
+
+![js](class02\js2.JPG)
+
