@@ -100,3 +100,29 @@ The ```<sub>``` element is used to contain characters that should be subscript. 
 When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too. This is known as white space collapsing.
 
 ![ws](class02\ws.JPG)
+
+# LINE BREAKS & HORIZONTAL RULES
+
+**```<br />```**
+
+if you wanted to add a line break inside the middle of a paragraph you can use the line break tag ```<br />```.
+
+**```<hr />```**
+
+To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the ```<hr />``` tag.
+
+![brhr](class02\brhr.JPG)
+
+# STRONG and EMPHASIS
+
+**```<strong>```**
+
+The use of the ```<strong>``` element indicates that its content has strong importance. 
+
+**```<em>```**
+
+The ```<em>``` element indicates emphasis that subtly changes the meaning of a sentence.
+
+![sem](class02\sem.JPG)
+
+
