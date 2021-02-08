@@ -8,7 +8,13 @@ Photo by [Pocket Now](https://pocketnow.com)
 
 - [Bold, italic, emphasis](#bold-and-italic)
 
-- Structural and semantic markup
+- [Structural and semantic markup](#bold-and-italic)
+
+- [What CSS does]()
+
+- [How CSS works]()
+
+- [Rules, properties, and values]()
 
 ## Text
 
@@ -136,3 +142,48 @@ The ```<blockquote>``` element is used for longer quotes that take up an entire 
 The ```<q>``` element is used for shorter quotes that sit within a paragraph. Browsers are supposed to put quotes around the ```<q>``` element, however Internet Explorer does not — therefore many people avoid using the ```<q>``` element.
 
 ![quote](class02\quote.JPG)
+
+# ABBREVIATIONS & ACRONYMS
+
+```<abbr>```
+
+If you use an abbreviation or an acronym, then the ```<abbr>``` element can be used. A titleattribute on the opening tag is used to specify the full term.
+
+# CITATIONS & DEFINITIONS
+
+**```<cite>```**
+
+ the  **```<cite>```** element can be used to indicate where the citation is from.
+
+ **```<dfn>```**
+
+ The **```<dfn>```** element is used to indicate the defining instance of a new term.
+
+# AUTHOR DETAILS
+
+**```<address>```**
+
+The ```<address>``` element has quite a specific use: to contain contact details for the author of the page.
+
+# CHANGES To CONTENT
+
+**```<ins>```**
+
+**```<del>```**
+
+The **```<ins>```** element can be used to show content that has been inserted into a document, while the **```<del>```** element can show text that has been deleted from it.
+
+**```<s>```**
+
+The **```<s>```** element indicates something that is no longer accurate or relevant (but that should not be deleted).
+
+# Introducing CSS
+
+**UNDERSTANDING CSS:** Thinking Inside the Box.
+
+The key to understanding how CSS works is to imagine that there is an invisible box around every HTML element.
+
+CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
+
+![css](class02\css.JPG)
+
