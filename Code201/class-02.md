@@ -125,4 +125,14 @@ The ```<em>``` element indicates emphasis that subtly changes the meaning of a s
 
 ![sem](class02\sem.JPG)
 
+# QUOTATIONS
 
+**```<blockquote>```**
+
+The ```<blockquote>``` element is used for longer quotes that take up an entire paragraph. Note how the ```<p>``` element is still used inside the ```<blockquote>``` element.
+
+**```<q>```**
+
+The ```<q>``` element is used for shorter quotes that sit within a paragraph. Browsers are supposed to put quotes around the ```<q>``` element, however Internet Explorer does not — therefore many people avoid using the ```<q>``` element.
+
+![quote](class02\quote.JPG)
