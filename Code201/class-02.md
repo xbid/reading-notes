@@ -95,3 +95,8 @@ The ```<sub>``` element is used to contain characters that should be subscript. 
 
 ![sub sup](class02\spb.JPG)
 
+# WHITE SPACE
+
+When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too. This is known as white space collapsing.
+
+![ws](class02\ws.JPG)
