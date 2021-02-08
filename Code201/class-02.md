@@ -187,3 +187,6 @@ CSS works by associating rules with HTML elements. These rules govern how the co
 
 ![css](class02\css.JPG)
 
+CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon
+
+![css](class02\css2.JPG)
