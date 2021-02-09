@@ -44,3 +44,42 @@ This is used to contain the definition.
 
 You can put a second list inside an ```<li>``` element to create a sub-list or nested list.
 
+**Summary** *Lists*
+
+- There are three types of HTML lists: ordered, unordered, and definition. 
+
+- Ordered lists use numbers.
+
+- Unordered lists use bullets.
+
+- Definition lists are used to define terminology.
+
+- Lists can be nested inside one another.
+
+# CSS Box
+
+![css](https://hackernoon.com/hn-images/1*mocAy3KRzjTs0Oc2mUz9Sg.jpeg)
+
+You can set several properties that affect the appearance of these boxes. In this chapter you will see how to:Control the dimensions of your boxes
+
+- Create borders around boxes
+
+- Set margins and padding for boxes●
+
+- Show and hide boxes
+
+**Box Dimensions** width, height
+
+**Limiting Width** min-width, max-width
+
+**limiting height** min-height, max-height
+
+**overflowing content** overflow
+
+- hidden
+
+This property simply hides any extra content that does not fit in the box.
+
+- scroll
+
+This property adds a scrollbar to the box so that users can scroll to see the missing content.
