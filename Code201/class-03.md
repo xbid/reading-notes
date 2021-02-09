@@ -83,3 +83,21 @@ This property simply hides any extra content that does not fit in the box.
 - scroll
 
 This property adds a scrollbar to the box so that users can scroll to see the missing content.
+
+**Border, Margin & Padding**
+
+Every box has three available properties that can be adjusted to control its appearance:
+
+If you specify a width for a box, then the borders, margin, and padding are added to its width and height.
+
+- 1. Border
+
+Every box has a border (even if it is not visible or is specified to be 0 pixels wide). The border separates the edge of one box from another.
+
+- 2. Margin
+
+Margins sit outside the edge of the border. You can set the width of a margin to create a gap between the borders of two adjacent boxes.
+
+- 3. Padding
+
+Padding is the space between the border of a box and any content contained within it. Adding padding can increase the readability of its contents.
