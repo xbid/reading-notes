@@ -1,6 +1,6 @@
 # HTML Lists, CSS Boxes, JS Control Flow
 
-**lists**
+# lists
 
 ![html lists](https://careerkarma.com/blog/wp-content/uploads/2020/02/HTML-LISTS.jpg)
 
@@ -56,7 +56,7 @@ You can put a second list inside an ```<li>``` element to create a sub-list or n
 
 - Lists can be nested inside one another.
 
-# CSS Box
+## CSS Box
 
 ![css](https://hackernoon.com/hn-images/1*mocAy3KRzjTs0Oc2mUz9Sg.jpeg)
 
