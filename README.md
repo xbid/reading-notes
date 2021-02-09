@@ -82,6 +82,8 @@ Basics of HTML, CSS & JS.
 
 ### 2.3. Class03
 
+HTML Lists, CSS Boxes, JS Control Flow
+
 ### 2.4. Class04
 
 ### 2.5. Class05
