@@ -101,3 +101,24 @@ Margins sit outside the edge of the border. You can set the width of a margin to
 - 3. Padding
 
 Padding is the space between the border of a box and any content contained within it. Adding padding can increase the readability of its contents.
+
+**White Space & Vertical Margin**
+
+The padding and margin properties are very helpful in adding space between various items on the page.
+
+**Summary** *Boxes*
+
+- CSS treats each HTML element as if it has its own box. 
+
+- You can use CSS to control the dimensions of a box.
+
+- You can also control the borders, margin and padding for each box with CSS.
+
+- It is possible to hide elements using the display and visibility properties.
+
+- Block-level boxes can be made into inline boxes, and inline boxes made into block-level boxes.
+
+- Legibility can be improved by controlling the width of boxes containing text and the leading.
+
+- CSS3 has introduced the ability to create image Xborders and rounded borders.
+
