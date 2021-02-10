@@ -26,6 +26,8 @@ Links are created using the ```<a>``` element. Users can click on anything betwe
 
 ![  ](class04\fr1.JPG)
 
+Photo by Ducket Book
+
 The text between the opening ```<a>``` tag and closing ```</a>``` tag is known as link text. Where possible, It should explain where visitors will be taken if they click on it.
 
 ### Linking to other sites
@@ -120,15 +122,21 @@ You will be learning.
 
 ![  ](class04\se2.JPG)
 
+Photo by Ducket Book
+
 **Containing Elements**
 
 ![  ](class04\th3.JPG)
+
+Photo by Ducket Book
 
 **ControLLing the position of eLements**
 
 CSS has the following positioning schemes that allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the positionproperty in CSS. You can also float elements using the float property.
 
 ![  ](class04\fo4.JPG)
+
+Photo by Ducket Book
 
 **Linking to other sites**
 
@@ -161,3 +169,5 @@ As long as the page you are linking to has id attributes that identify specific 
 ## Layout
 
 **Key Concepts in positioning elements**
+
+
