@@ -14,15 +14,13 @@ Photo by [Pocket Now](https://pocketnow.com)
 
 - [How CSS works](#introducing-css)
 
-
-
 ## Text
 
 ![html](https://i.pinimg.com/originals/37/1d/b8/371db84b01a8b6ecc9add7131abba6dd.gif)
 
 Photo by [Pin img](https://i.pinimg.com)
 
-# HEADINGS
+## HEADINGS
 
 ```<h1> <h2> <h3> <h4> <h5> <h6>```
 

@@ -4,7 +4,7 @@
 
 Photo by [Tea Hub](https://swall.teahub.io)
 
-**LINKS**
+## LINKS
 
 Links are the defining feature of the web because they allow you to move from one web page to another — enabling the very idea of browsing or surfing.
 
@@ -28,7 +28,7 @@ Links are created using the ```<a>``` element. Users can click on anything betwe
 
 The text between the opening ```<a>``` tag and closing ```</a>``` tag is known as link text. Where possible, It should explain where visitors will be taken if they click on it.
 
-**Linking to other sites**
+### Linking to other sites
 
 ```<a>```
 
