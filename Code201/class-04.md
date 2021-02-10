@@ -138,36 +138,28 @@ CSS has the following positioning schemes that allow you to control the layout o
 
 Photo by Ducket Book
 
-**Linking to other sites**
+### Screen Sizes
 
-```<a>```
+Different visitors to your site will have different sized screens that show different amounts of information, so your design needs to be able to work on a range of different sized screens.
 
-Links are created using the ```<a>``` element which has an attribute called href. The value of the href attribute is the page that you want people to go to when they click on the link.
+![  ](class04\fi5.JPG)
 
-**EmaiL Links**
+### Screen Resolution
 
-mailto:
+Resolution refers to the number of dots a screen shows per inch. Some devices have a higher resolution than desktop computers and most operating systems allow users to adjust the resolution of their screens.
 
-To create a link that starts up the user's email program and addresses an email to a specified email address, you use the ```<a>``` element. However, this time the value of the href attribute starts with mailto: and is followed by the email address you want the email to be sent to.
+### Page Sizes
 
-**Opening Links in A new Window**
+Because screen sizes and display resolutions vary so much, web designers often try to create pages of around 960-1000 pixels wide (since most users will be able to see designs this wide on their screens)
 
-target
+### Fixed Width Layouts
 
-If you want a link to open in a new window, you can use the target attribute on the opening <a> tag. The value of this attribute should be _blank.
-  
-**Linking to A specific part oF the same page**
+![  ](class04\si6.JPG)
 
-To link to an element that uses an id attribute you use the ```<a>```element again, but the value of the href attribute starts with the # symbol, followed by the value of the id attribute of the element you want to link to.
-  
-**Linking to A specific part of Another page**
+### Liquid Layouts
 
-If you want to link to a specific part of a different page (whether on your own site or a different website) you can use a similar technique.
+![  ](class04\si7.JPG)
 
-As long as the page you are linking to has id attributes that identify specific parts of the page, you can simply add the same syntax to the end of the link for that page.
-
-## Layout
-
-**Key Concepts in positioning elements**
-
+## JAVASCRIPT 
+*Functions, Methods, and Objects*
 
