@@ -32,11 +32,11 @@ The text between the opening ```<a>``` tag and closing ```</a>``` tag is known a
 
 ```<a>```
 
-Links are created using the <a> element which has an attribute called href. The value of the href attribute is the page that you want people to go to when they click on the link.
+Links are created using the ```<a>``` element which has an attribute called href. The value of the href attribute is the page that you want people to go to when they click on the link.
 
 *chapter-04/linking-to-other-sites.html*
 
-```
+~~~
 <p>Movie Reviews:
   <ul>
         <li><a href="http://www.empireonline.com">Empire</a></li>
@@ -45,7 +45,7 @@ Links are created using the <a> element which has an attribute called href. The 
         <li><a href="http://www.variety.com">Variety</a></li>
   </ul>
 </p>
-```
+~~~
 
 URL stands for Uniform Resource Locator.
 
@@ -59,7 +59,8 @@ All the pages of the site are in the same folder, the value of the href attribut
 
 *chapter-04/linking-to-other-pages.html*
 
-```
+
+~~~
 <p>
   <ul>
         <li><a href="index.html">Home</a></li>
@@ -68,7 +69,8 @@ All the pages of the site are in the same folder, the value of the href attribut
         <li><a href="contact.html">Contact</a></li>
   </ul>
 </p>
-```
+~~~
+
 
 **Relative URLS**
 
@@ -78,7 +80,7 @@ Relative URLs can be used when linking to pages within your own website. They pr
 
 mailto:
 
-To create a link that starts up the user's email program and addresses an email to a specified email address, you use the <a> element. However, this time the value of the href attribute starts with mailto: and is followed by the email address you want the email to be sent to.
+To create a link that starts up the user's email program and addresses an email to a specified email address, you use the ```<a>``` element. However, this time the value of the href attribute starts with mailto: and is followed by the email address you want the email to be sent to.
 
 **Opening Links in A new Window**
 
@@ -148,7 +150,7 @@ If you want a link to open in a new window, you can use the target attribute on 
   
 **Linking to A specific part oF the same page**
 
-To link to an element that uses an id attribute you use the <a>element again, but the value of the href attribute starts with the # symbol, followed by the value of the id attribute of the element you want to link to.
+To link to an element that uses an id attribute you use the ```<a>```element again, but the value of the href attribute starts with the # symbol, followed by the value of the id attribute of the element you want to link to.
   
 **Linking to A specific part of Another page**
 
@@ -159,6 +161,3 @@ As long as the page you are linking to has id attributes that identify specific 
 ## Layout
 
 **Key Concepts in positioning elements**
-
-
-
