@@ -24,7 +24,7 @@ Links are the defining feature of the web because they allow you to move from on
 
 Links are created using the ```<a>``` element. Users can click on anything between the opening ```<a>``` tag and the closing ```</a>``` tag. You specify which page you want to link to using the *href* attribute.
 
-![  ](Code201\class04\fr1.JPG)
+![  ](class04\fr1.JPG)
 
 The text between the opening ```<a>``` tag and closing ```</a>``` tag is known as link text. Where possible, It should explain where visitors will be taken if they click on it.
 
@@ -118,17 +118,17 @@ You will be learning.
 
 **Building Blocks**
 
-![  ](Code201\class04\se2.JPG)
+![  ](class04\se2.JPG)
 
 **Containing Elements**
 
-![  ](Code201\class04\th3.JPG)
+![  ](class04\th3.JPG)
 
 **ControLLing the position of eLements**
 
 CSS has the following positioning schemes that allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the positionproperty in CSS. You can also float elements using the float property.
 
-![  ](Code201\class04\fo4.JPG)
+![  ](class04\fo4.JPG)
 
 **Linking to other sites**
 
