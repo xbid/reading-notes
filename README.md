@@ -86,6 +86,8 @@ HTML Lists, CSS Boxes, JS Control Flow
 
 ### 2.4. Class04
 
+HTML Links, JS Functions, and Intro to CSS Layout
+
 ### 2.5. Class05
 
 ### 2.6. Class06
