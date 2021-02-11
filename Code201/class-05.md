@@ -225,3 +225,20 @@ p {
 
 - CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
 
+## TEXT
+
+The properties that allow you to control the appearance of text can be split into two groups:Those that directly affect the font and its appearance 
+
+- (including the typeface, whether it is regular, bold or italic, and the size of the text)Those that would have the same effect on text no matter 
+
+- what font you were using (including the color of text and the spacing between words and letters)
+
+### Typeface Terminology
+
+![ ](class05\tex.JPG)
+
+### Choosing a Typeface for your Website
+
+When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that user's computer.
+
+![ ](class05\tex2.JPG)
