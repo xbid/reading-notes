@@ -56,7 +56,7 @@ This specifies the width of the image in pixels.
 
 - 2: Inside the start of a paragraph.
 
-- 3: I  n the mIddle of a paragraph
+- 3: In the middle of a paragraph
 
 ~~~
 <img src="images/bird.gif" alt="Bird" width="100"    height="100" />
