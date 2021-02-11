@@ -90,6 +90,9 @@ HTML Links, JS Functions, and Intro to CSS Layout
 
 ### 2.5. Class05
 
+HTML Images CSS Color & Text
+
+
 ### 2.6. Class06
 
 ### 2.7. Class07
