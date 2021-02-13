@@ -2,7 +2,7 @@
 
 ![  ](https://res.cloudinary.com/practicaldev/image/fetch/s--fzU9Q772--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ern57e4pds7jpp9oq5xy.png)
 
-Photo by [Cloudinary](https://res.cloudinary.com)
+Photo by [Cloudinary](https://res.cloudinary.com/practicaldev/image/fetch/s--fzU9Q772--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/ern57e4pds7jpp9oq5xy.png)
 
 ## Understanding The Problem Domain *is The Hardest Part Of Programming*
 
@@ -78,3 +78,38 @@ The Document Object Model (DOM) specifies how browsers should create a model of 
 
 ![ ](class06\dom1.JPG)
 
+## Caching DOM Queries
+
+Methods that find elements in the DOM tree are called DOM queries.
+
+When you need to work with an element more than once ,you should use a variable to store the result of this query.
+
+![ ](class06\dom2.JPG)
+
+## Methods that select individual elements
+
+get ElementById() and querySelector() can both search an entire document and return individual elements. Both use a similar syntex.
+
+#[ ](class06\dom3.JPG)
+
+## Selecting An Element from a NodeList
+
+There are two ways to select an element from a NodeList:
+
+The item() method and array syntax.
+
+Both require the index number of the element you want.
+
+![ ](class06\dom4.JPG)
+
+![ ](class06\dom5.JPG)
+
+## Repeating actions for an entire nodelist
+
+When you have a NodeList, you can loop through each collection and apply the same statements to each.
+
+![ ](class06\dom6.JPG)
+
+## Looping through a Nodelist: play by play
+
+![ ](class06\dom7.JPG)
