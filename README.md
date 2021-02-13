@@ -92,8 +92,9 @@ HTML Links, JS Functions, and Intro to CSS Layout
 
 HTML Images CSS Color & Text
 
-
 ### 2.6. Class06
+
+JS Object Literals; The DOM
 
 ### 2.7. Class07
 
