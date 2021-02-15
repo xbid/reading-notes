@@ -5,25 +5,25 @@
 ***CSS has a myriad of ways to position and move elements on a webpage.***
 
 ![ ](https://sabe.io/classes/css/hero.png)
-*Photo by [sabe.io]*(<https://sabe.io/classes/css/hero.png>)
+*Photo by [sabe.io]*(https://sabe.io/classes/css/hero.png)
 
 Here is a list of types of CSS Layouts and a handy little CSS framework.
 
 - Fixed Width
 - Fluid (or liquid)
 - Grid Layout
-- Flexbox
+- Flex*box*
 - BootStrap
 
 ![ ](https://www.touchmediaads.com/myimg/b1.3.gif)
 
-*Gif by [Touchmedia]*(<https://www.touchmediaads.com/myimg/b1.3.gif>)
+*Gif by [Touchmedia]*(https://www.touchmediaads.com/myimg/b1.3.gif)
 
 ## Layout in Css:-
 
-CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box. CSS treats each HTML element as if it is in its own box. This box will either be a block-level box or an inline box.
+CSS treats each HTML element as if it is in its own *box*. This *box* will either be a ***block-level *box**** or an inline *box*. CSS treats each HTML element as if it is in its own *box*. This *box* will either be a ***block-level *box**** or an inline *box*.
 
-The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width).
+***The float*** property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined ***width***).
 
 Pages can be *fixed width* or *liquid* (stretchy) layouts.
 
@@ -31,11 +31,11 @@ Resolution refers to the number of dots a screen shows per inch. Some devices ha
 
 Liquid layout designs stretch and contract as the user increases or decreases the size of their browser window. They tend to use percentages.
 
-Fixed width layout designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in pixels.
+***Fixed width layout*** designs do not change size as the user increases or decreases the size of their browser window. Measurements tend to be given in pixels.
 
-Many designers use a grid structure to help them position items on a page, and the same is true for web designers.
+Many designers use a ***grid structure*** to help them position items on a page, and the same is true for web designers.
 
-CSS Frameworks provide rules for common tasks.
+*CSS Frameworks provide rules for common tasks*.
 
 ### Layout
 
@@ -51,13 +51,13 @@ We will Cover The following :
 
 ### Position Concept
 
-Css treat each element in html doc. as a box, this box could be a block level box so will sit and take the whole area or the whole width and start on a new line. or it could be inline box and these boxes flow in between surrounding text and you can manage the spaces that this box will sit on it, by some properities (width, height, padding, margin, borders).
+Css treat each element in html doc. as a *box*, this *box* could be a block level *box* so will sit and take the whole area or the whole width and start on a new line. or it could be inline *box* and these boxes flow in between surrounding text and you can manage the spaces that this *box* will sit on it, by some properities (***width, height, padding, margin, borders***).
 
-If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element.
+If one ***block-level*** element sits inside another **block-level** element then the outer *box* is known as the containing or parent element.
 
-- inline Element
+- **inline Element**
 
-- Block Element
+- **Block Element**
 
 Controling the layout of page will be by using positioning schemes in differents ways: normal, relative absolute, static, …
 
