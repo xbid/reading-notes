@@ -61,7 +61,7 @@ If one ***block-level*** element sits inside another **block-level** element the
 
 Controlling the layout of page will be by using positioning schemes in different ways: ***normal, relative absolute, static, …***
 
-devices have diffrenets screen sizes, So the web desginer should take the different layouts grids into consideration.
+devices have different screen sizes, So the web designer should take the different layouts grids into consideration.
 
 ![ ](https://www.logicalposition.com/img/websites/responsive-white-bg.gif)
 
@@ -79,7 +79,7 @@ Gif by [LP](https://www.logicalposition.com/)
 
 > Designers keep pages within 960-1000 pixels wide, and indicate  what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
 
-> Using grids we can create professional and  flexable  designs.
+> Using grids we can create professional and  flexible  designs.
 
 > CSS Frameworks provide rules for common tasks.
 
