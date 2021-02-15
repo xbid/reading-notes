@@ -90,7 +90,7 @@ When you need to work with an element more than once ,you should use a variable 
 
 get ElementById() and querySelector() can both search an entire document and return individual elements. Both use a similar syntex.
 
-[ ](class06\dom3.JPG)
+![ ](class06\dom3.JPG)
 
 ## Selecting An Element from a NodeList
 

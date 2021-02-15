@@ -98,6 +98,8 @@ JS Object Literals; The DOM
 
 ### 2.7. Class07
 
+HTML Tables; JS Constructor Functions
+
 ### 2.8. Class08
 
 ### 2.9. Class09
