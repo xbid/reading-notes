@@ -5,7 +5,7 @@
 ***CSS has a myriad of ways to position and move elements on a webpage.***
 
 ![ ](https://sabe.io/classes/css/hero.png)
-*Photo by [sabe.io]*(https://sabe.io/classes/css/hero.png)
+Photo by [sabe.io](https://sabe.io/classes/css/hero.png)
 
 Here is a list of types of CSS Layouts and a handy little CSS framework.
 
@@ -17,7 +17,7 @@ Here is a list of types of CSS Layouts and a handy little CSS framework.
 
 ![ ](https://www.touchmediaads.com/myimg/b1.3.gif)
 
-*Gif by [Touchmedia]*(https://www.touchmediaads.com/myimg/b1.3.gif)
+Gif by [Touchmedia](https://www.touchmediaads.com/myimg/b1.3.gif)
 
 ## Layout in Css:-
 
