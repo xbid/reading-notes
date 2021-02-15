@@ -102,6 +102,8 @@ HTML Tables; JS Constructor Functions
 
 ### 2.8. Class08
 
+CSS Layout
+
 ### 2.9. Class09
 
 ### 2.10. Class10

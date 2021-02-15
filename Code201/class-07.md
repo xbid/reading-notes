@@ -56,4 +56,4 @@ Result:
 
 - You can make cells of a table span more than one row or column using the rowspan and colspan attributes.
 
-- For long tables you can split the table into a ```<thead>```, ```<tbody>```, and ```<tfoot>```.
+- For long tables you can split the table into a ```<thead>```, ```<tbody>```, and ```<tfoot>```. 
