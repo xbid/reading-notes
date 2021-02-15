@@ -1,6 +1,6 @@
 # CSS Layout
 
-> CSS layouts are used to, well, **layout your content**. CSS being respoinsible for the *styling* of your site, positioning falls under that umbrella of style. From *positining* left to right, top to bottom, margin, padding, floats, grid systems, etc.
+> CSS layouts are used to, well, **layout your content**. CSS being responsible for the *styling* of your site, positioning falls under that umbrella of style. From *positioning* left to right, top to bottom, margin, padding, floats, grid systems, etc.
 
 ***CSS has a myriad of ways to position and move elements on a webpage.***
 
@@ -12,8 +12,8 @@ Here is a list of types of CSS Layouts and a handy little CSS framework.
 - Fixed Width
 - Fluid (or liquid)
 - Grid Layout
-- Flex*box*
-- BootStrap
+- Flex-box
+- Boot-strap
 
 ![ ](https://www.touchmediaads.com/myimg/b1.3.gif)
 
@@ -51,7 +51,7 @@ We will Cover The following :
 
 ### Position Concept
 
-Css treat each element in html doc. as a *box*, this *box* could be a block level *box* so will sit and take the whole area or the whole width and start on a new line. or it could be inline *box* and these boxes flow in between surrounding text and you can manage the spaces that this *box* will sit on it, by some properities (***width, height, padding, margin, borders***).
+CSS treat each element in HTML doc. as a *box*, this *box* could be a block level *box* so will sit and take the whole area or the whole width and start on a new line. or it could be inline *box* and these boxes flow in between surrounding text and you can manage the spaces that this *box* will sit on it, by some properties (***width, height, padding, margin, borders***).
 
 If one ***block-level*** element sits inside another **block-level** element then the outer *box* is known as the containing or parent element.
 
@@ -59,9 +59,9 @@ If one ***block-level*** element sits inside another **block-level** element the
 
 - **Block Element**
 
-Controling the layout of page will be by using positioning schemes in differents ways: normal, relative absolute, static, …
+Controlling the layout of page will be by using positioning schemes in different ways: ***normal, relative absolute, static, …***
 
-devices have diffrenets screen sizes, So the web disginer should take the different layouts grids into considreation.
+devices have diffrenets screen sizes, So the web desginer should take the different layouts grids into consideration.
 
 ![ ](https://www.logicalposition.com/img/websites/responsive-white-bg.gif)
 
@@ -79,8 +79,8 @@ Gif by [LP](https://www.logicalposition.com/)
 
 > Designers keep pages within 960-1000 pixels wide, and indicate  what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
 
-> Using grids we can create profassional and flexable designs.
+> Using grids we can create professional and  flexable  designs.
 
 > CSS Frameworks provide rules for common tasks.
 
-> You can make a multiple css files and see their affect in one page.
+> You can make a multiple CSS files and see their affect in one page.
