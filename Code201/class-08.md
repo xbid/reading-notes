@@ -5,7 +5,7 @@
 ***CSS has a myriad of ways to position and move elements on a webpage.***
 
 ![ ](https://sabe.io/classes/css/hero.png)
-*Photo by [sabe.io]*(https://sabe.io/classes/css/hero.png)
+*Photo by [sabe.io]*(<https://sabe.io/classes/css/hero.png>)
 
 Here is a list of types of CSS Layouts and a handy little CSS framework.
 
@@ -14,6 +14,10 @@ Here is a list of types of CSS Layouts and a handy little CSS framework.
 - Grid Layout
 - Flexbox
 - BootStrap
+
+![ ](https://www.touchmediaads.com/myimg/b1.3.gif)
+
+*Gif by [Touchmedia]*(<https://www.touchmediaads.com/myimg/b1.3.gif>)
 
 ## Layout in Css:-
 
@@ -58,6 +62,10 @@ If one block-level element sits inside another block-level element then the oute
 Controling the layout of page will be by using positioning schemes in differents ways: normal, relative absolute, static, …
 
 devices have diffrenets screen sizes, So the web disginer should take the different layouts grids into considreation.
+
+![ ](https://www.logicalposition.com/img/websites/responsive-white-bg.gif)
+
+Gif by [LP](https://www.logicalposition.com/)
 
 #### Summary
 
