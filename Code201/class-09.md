@@ -6,19 +6,25 @@
 
 Photo by [GStatic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2bp675ft2gXq7SKuM0iUlvZiNS70w5KntAA&usqp=CAU)
 
+The best known form on the web is probably the search box that sits right in the middle of Google's homepage.
+
+In addition to enabling users to search, forms also allow users to perform other functions online. You will see forms when registering as a member of a website, when shopping online, and when signing up for newsletters or mailing lists.
+
+![ ](https://progressive.org/downloads/13507/download/google.gif?cb=ef422921d864963ec48a500a0efd00ad)
+
 ## The `<form>` Element
 
 *The HTML `<form>` element is used to create an HTML form for user input:*
   
-``` ruby
+~~~
 <form>
 .
 form elements
 .
 </form>
-```
+~~~
 
-## The `<input>` Element
+### The `<input>` Element
 
 ***The HTML `<input>` element is the most used form element.***
 
@@ -56,7 +62,6 @@ form elements
 > The `<label>` tag defines a label for many form elements.
 > The `<label>` element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.
 > The `<label>` element also help users who have difficulty clicking on very small regions (such as radio buttons or checkboxes)
->
 > because when the user clicks the text within the `<label>` element, it toggles the radio button/checkbox.
 > The for attribute of the `<label>` tag should be equal to the id attribute of the `<input>` element to bind them together.
 
@@ -69,7 +74,7 @@ form elements
 *Example:*
 *A form with radio buttons:*
 
-``` ruby
+~~~
 <form>
   <input type="radio" id="male" name="gender" value="male">
   <label for="male">Male</label><br>
@@ -78,7 +83,7 @@ form elements
   <input type="radio" id="other" name="gender" value="other">
   <label for="other">Other</label>
 </form>
-```
+~~~
 
 ## Checkboxes
 
@@ -89,7 +94,7 @@ form elements
 *Example:*
 *A form with checkboxes:*
 
-``` ruby
+~~~
 <form>
   <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
   <label for="vehicle1"> I have a bike</label><br>
@@ -98,7 +103,7 @@ form elements
   <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
   <label for="vehicle3"> I have a boat</label>
 </form>
-```
+~~~
 
 ## The Submit Button
 
@@ -110,7 +115,7 @@ form elements
 *Example:*
 *A form with a submit button:*
 
-``` ruby
+~~~
 <form action="/action_page.php">
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" name="fname" value="John"><br>
@@ -118,7 +123,7 @@ form elements
   <input type="text" id="lname" name="lname" value="Doe"><br><br>
   <input type="submit" value="Submit">
 </form>
-```
+~~~
 
 ## The `<textarea>` Element
 
@@ -126,11 +131,11 @@ form elements
 
 *Example*
 
-``` ruby
+~~~
 <textarea name="message" rows="10" cols="30">
 The cat was playing in the garden.
 </textarea>
-```
+~~~
 
 ## Input Type Password
 
@@ -138,14 +143,14 @@ The cat was playing in the garden.
 
 *Example*
 
-``` ruby
+~~~
 <form>
   <label for="username">Username:</label><br>
   <input type="text" id="username" name="username"><br>
   <label for="pwd">Password:</label><br>
   <input type="password" id="pwd" name="pwd">
 </form>
-```
+~~~
 
 ## Input Type Email
 
@@ -156,12 +161,12 @@ The cat was playing in the garden.
 
 *Example*
 
-``` ruby
+~~~
 <form>
   <label for="email">Enter your email:</label>
   <input type="email" id="email" name="email">
 </form>
-```
+~~~
 
 ## Input Type Url
 
@@ -172,12 +177,12 @@ The cat was playing in the garden.
 
 Example
 
-``` ruby
+~~~
 <form>
   <label for="homepage">Add your homepage:</label>
   <input type="url" id="homepage" name="homepage">
 </form>
-```
+~~~
 
 # CSS Lists
 
@@ -197,7 +202,7 @@ Example
 
 *Example*
 
-``` ruby
+~~~
 ul.a {
   list-style-type: circle;
 }
@@ -213,25 +218,25 @@ ol.c {
 ol.d {
   list-style-type: lower-alpha;
 }
-```
+~~~
 
 ***An Image as The List Item Marker***
 *The `list-style-image` property specifies an image as the list item marker:*
 
 *Example*
 
-``` ruby
+~~~
 ul {
   list-style-image: url('sqpurple.gif');
 }
-```
+~~~
 
 ***Position The List Item Markers***
 *The list-style-position property specifies the position of the list-item markers (bullet points).*
 
 *Example*
 
-``` ruby
+~~~
 ul.a {
   list-style-position: outside;
 }
@@ -239,7 +244,7 @@ ul.a {
 ul.b {
   list-style-position: inside;
 }
-```
+~~~
 
 ## CSS Borders
 
@@ -290,7 +295,7 @@ ul.b {
 
 ![ ](https://static.adevait.com/2019/07/9-Complete-Guide-for-Frontend-Validation-of-Forms@2x-100-768x401.jpg)
 
-``` ruby
+~~~
 const event = new Event('build');
 
 // Listen for the event.
@@ -298,7 +303,7 @@ elem.addEventListener('build', function (e) { /* ... */ }, false);
 
 // Dispatch the event.
 elem.dispatchEvent(event);
-```
+~~~
 
 ### JavaScript HTML DOM EventListener
 
