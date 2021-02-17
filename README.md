@@ -110,6 +110,8 @@ Forms and Events
 
 ### 2.10. Class10
 
+JS Debugging : Error Handling & Debugging
+
 ### 2.11. Class11
 
 ### 2.12. Class12
